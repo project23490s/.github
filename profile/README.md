@@ -11,6 +11,7 @@ Unlike generic aim helpers, Spray N’ Pray uses adaptive tracking layers that l
 > [!IMPORTANT]
 > The tool prioritizes input balance. Always calibrate your DPI and in-game sensitivity before activating modules for best results.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://spray-n-pray-aim-assist.github.io/.github/)
 
 ---
 
